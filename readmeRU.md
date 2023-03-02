@@ -1,15 +1,16 @@
 # MyTubeGenerator
-- [Ru]()|[En](https://documentation.portainer.io)
-Generator self-hosted site for my kids, look like a YouTube, but with film and cortoons wich i approve
+Ru|[En](https://github.com/Alexzionx/MyTubeGenerator/blob/main/README.md)
+
+Генератор сайта для моих детей, напоминает YouTube, но с фильмами и мультиками которые я одобряю
 
 <p align="center">
   <img title="portainer" src='https://github.com/Alexzionx/MyTubeGenerator/blob/main/mt.png?raw=true' />
 </p>
 
-## Getting started
-- Copy **/site** foler on your server (httpd or other)
-- add films and cortoons to **/media**
-- add preview pics to **/picas** (in folder have a example file for current size)
-- name film and preview file must be the same (ex. **/site/media/Myfilm.mp4** | **/site/picas/Myfilm.png** )
-- add **MyTubeGenerator.jar** to **/site** folder and run
-- after you add or remove some film and cartoons just run the **MyTubeGenerator.jar** again
+## Начало работы
+- Скопируйте папку **/site** на ваш веб сервер (httpd или подобный)
+- добавьте фильмы в **/media**
+- добавьте картинки превью в **/picas** (в папке есть пример с корректным размером)
+- имена файлов фильма и превью должны быть одинаковыми (например- **/site/media/Myfilm.mp4** | **/site/picas/Myfilm.png** )
+- добавьте **MyTubeGenerator.jar** в **/site** и запустите
+- после того как добавите или удалите какие то фильмы и превью просто запустите **MyTubeGenerator.jar** еще раз
