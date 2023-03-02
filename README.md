@@ -1,5 +1,6 @@
 # MyTubeGenerator
 - [Ru](https://github.com/Alexzionx/MyTubeGenerator/blob/main/readmeRU.md)|En
+
 Generator self-hosted site for my kids, look like a YouTube, but with film and cortoons wich i approve
 
 <p align="center">
@@ -10,6 +11,6 @@ Generator self-hosted site for my kids, look like a YouTube, but with film and c
 - Copy **/site** foler on your server (httpd or other)
 - add films and cortoons to **/media**
 - add preview pics to **/picas** (in folder have a example file for current size)
-- name film and preview file must be the same (ex. **/site/media/Myfilm.mp4** | **/site/picas/Myfilm.png** )
+- name film and preview file must be the same (ex. /site/media/**Myfilm.mp4** | /site/picas/**Myfilm.png** )
 - add **MyTubeGenerator.jar** to **/site** folder and run
 - after you add or remove some film and cartoons just run the **MyTubeGenerator.jar** again
