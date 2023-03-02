@@ -1,4 +1,5 @@
 # MyTubeGenerator
+- [Ru]()|[En](https://documentation.portainer.io)
 Generator self-hosted site for my kids, look like a YouTube, but with film and cortoons wich i approve
 
 <p align="center">
