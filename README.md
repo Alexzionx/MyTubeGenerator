@@ -9,7 +9,7 @@ Generator self-hosted site for my kids, look like a YouTube, but with film and c
 
 ## Getting started
 - Copy **/site** foler on your server (httpd or other)
-- add films and cortoons to **/media**
+- add films and cortoons to **/media** (in .mp4 format)
 - add preview pics to **/picas** (in folder have a example file for current size)
 - name film and preview file must be the same (ex. /site/media/**Myfilm.mp4** | /site/picas/**Myfilm.png** )
 - add **MyTubeGenerator.jar** to **/site** folder and run
