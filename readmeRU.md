@@ -9,7 +9,7 @@ Ru|[En](https://github.com/Alexzionx/MyTubeGenerator/blob/main/README.md)
 
 ## Начало работы
 - Скопируйте папку **/site** на ваш веб сервер (httpd или подобный)
-- добавьте фильмы в **/media**
+- добавьте фильмы в **/media** (в формате .mp4)
 - добавьте картинки превью в **/picas** (в папке есть пример с корректным размером)
 - имена файлов фильма и превью должны быть одинаковыми (например- /site/media/**Myfilm.mp4** | /site/picas/**Myfilm.png** )
 - добавьте **MyTubeGenerator.jar** в **/site** и запустите
