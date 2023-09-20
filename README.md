@@ -8,7 +8,7 @@ Generator self-hosted site for my kids, look like a YouTube, but with film and c
 </p>
 
 ## Getting started
-- Copy **/site** foler on your server (httpd or other)
+- Copy **/site** folder on your server (httpd or other)
 - add films and cartoons to **/media** (in .mp4 format)
 - add preview pics to **/picas** (in folder have a example file for current size)
 - name film and preview file must be the same (ex. /site/media/**Myfilm.mp4** | /site/picas/**Myfilm.png** )
